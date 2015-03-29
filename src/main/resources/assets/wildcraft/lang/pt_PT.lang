@@ -1,0 +1,18 @@
+MISC
+itemGroup.wildcraft=WildCraft
+container.wildcraft.tannery=Curtume
+wildcraft.chemical.tannin=Tanino
+
+BOCKS
+tile.wildcraft.tannery.name=Tannery
+
+ITEMS
+item.wildcraft.tabIcon.name=Aba Ícone
+item.wildcraft.motar.name=Motar
+item.wildcraft.pestle.name=Pilão
+item.wildcraft.pelt.wolf.name=Lobo Pelt
+item.wildcraft.pelt.pig.name=Pig Ocultar
+item.wildcraft.chemBottle.name=Engarrafado Extrato
+
+ENTITIES
+entity.wildcraft.canine.name=Canino
