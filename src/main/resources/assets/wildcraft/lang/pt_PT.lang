@@ -3,16 +3,16 @@ itemGroup.wildcraft=WildCraft
 container.wildcraft.tannery=Curtume
 wildcraft.chemical.tannin=Tanino
 
-BOCKS
-tile.wildcraft.tannery.name=Tannery
+BLOCKS
+tile.wildcraft.tannery.name=Curtume
 
 ITEMS
-item.wildcraft.tabIcon.name=Aba Ícone
-item.wildcraft.motar.name=Mortar
+item.wildcraft.tabIcon.name=Aba Do Ícone
+item.wildcraft.motar.name=Argamassa
 item.wildcraft.pestle.name=Pilăo
-item.wildcraft.pelt.wolf.name=Lobo Pelt
+item.wildcraft.pelt.wolf.name=Pele De Lobo
 item.wildcraft.pelt.pig.name=Pig Ocultar
-item.wildcraft.chemBottle.name=Engarrafado Extrato
+item.wildcraft.chemBottle.name=Extrato Engarrafado
 
 ENTITIES
 entity.wildcraft.canine.name=Canino
