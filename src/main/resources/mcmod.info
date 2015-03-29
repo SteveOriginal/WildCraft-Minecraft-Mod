@@ -1,0 +1,15 @@
+[
+{
+  "modid": "wildcraft",
+  "name": "WildCraft",
+  "description": "WildCraft is a mod that adds realistic animals to Minecraft, as well as improving the current ones.",
+  "version": "1.0.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Alexthe66", "Cucholololthespanishman", "ma_rio11", "SteveOriginal"],
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

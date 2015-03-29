@@ -1,0 +1,18 @@
+MISC
+itemGroup.wildcraft=WildCraft
+container.wildcraft.tannery=Tannery
+wildcraft.chemical.tannin=Tannin
+
+BOCKS
+tile.wildcraft.tannery.name=Tannery
+
+ITEMS
+item.wildcraft.tabIcon.name=Tab Icon
+item.wildcraft.motar.name=Motar
+item.wildcraft.pestle.name=Pestle
+item.wildcraft.pelt.wolf.name=Wolf Pelt
+item.wildcraft.pelt.pig.name=Pig Hide
+item.wildcraft.chemBottle.name=Bottled Extract
+
+ENTITIES
+entity.wildcraft.canine.name=Canine
