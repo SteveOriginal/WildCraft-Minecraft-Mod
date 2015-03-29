@@ -3,12 +3,12 @@ itemGroup.wildcraft=WildCraft
 container.wildcraft.tannery=Tannery
 wildcraft.chemical.tannin=Tannin
 
-BOCKS
+BLOCKS
 tile.wildcraft.tannery.name=Tannery
 
 ITEMS
 item.wildcraft.tabIcon.name=Tab Icon
-item.wildcraft.motar.name=Mortar
+item.wildcraft.mortar.name=Mortar
 item.wildcraft.pestle.name=Pestle
 item.wildcraft.pelt.wolf.name=Wolf Pelt
 item.wildcraft.pelt.pig.name=Pig Hide
